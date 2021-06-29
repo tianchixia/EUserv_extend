@@ -54,4 +54,4 @@ schedule:
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
 
-本项目原地址为：https://github.com/CokeMine/EUserv_extend 目前已经删除项目库了！
+本项目原地址为：https://github.com/CokeMine/EUserv_extend 原作者已经删除他的项目库了！
